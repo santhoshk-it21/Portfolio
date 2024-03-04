@@ -8,18 +8,18 @@ const Project = () => {
 
       <div className="flex justify-around py-5">
         <div className="">
-          <img className="h-[300px] hover:blur-sm" src={fm} />
+          <img className="h-[300px] hover:blur-sm" src={fm} alt="Manikandan"/>
           <p className="font-bold">Face mask detection using deep learning</p>
         </div>
 
         <div>
-          <img className="h-[300px] hover:blur-sm" src={meet} />
+          <img className="h-[300px] hover:blur-sm" src={meet}  alt="Manikandan"/>
           <p className="ml-5 font-bold">
             MeetMax application using API & Android Studio{" "}
           </p>
         </div>
         <div className="">
-          <img className="h-[300px] hover:blur-sm" src={txt} />
+          <img className="h-[300px] hover:blur-sm" src={txt} alt="Manikandan" />
           <p className="font-bold">Image-to-Text Converter With Reactjs</p>
         </div>
       </div>
