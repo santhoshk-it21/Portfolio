@@ -4,7 +4,7 @@ const Resume = () => {
   return (
     <thrid className="flex flex-col md:flex-row backfirst px-5" id="resume">
       <div className="md:w-1/2 flex justify-center py-20">
-        <img className="h-[500px] py-3" src={resume} />
+        <img className="h-[500px] py-3" src={resume}  alt="Manikandan"/>
       </div>
       <div className=" md:w-1/2 flex justify-center font-hero ">
         <div className=" w-1/2 flex flex-col justify-center text">
