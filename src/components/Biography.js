@@ -15,7 +15,7 @@ const Biography = () => {
         </h1>
       </div>
 
-      <img className="h-[550px] mr-20" src={bio} />
+      <img className="h-[550px] mr-20" src={bio} alt="Manikandan" />
     </div>
   );
 };
