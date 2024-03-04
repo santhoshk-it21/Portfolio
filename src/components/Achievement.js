@@ -5,7 +5,7 @@ const Achievement = () => {
       <h1 className="flex justify-center text-5xl py-20">Achievements</h1>
       <div className="flex justify-around left:py-5">
         {" "}
-        <img className="h-[500px] ml-20" src={prize1} />
+        <img className="h-[500px] ml-20" src={prize1} alt="Manikandan" />
         <div className="Achievement ml-10 mt-20">
           <h1 className="text-2xl py-4">SEP-2022</h1>
           <p className="text-white">
